@@ -11,3 +11,5 @@
 ![Git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=e84e31)
 
 ### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/krivenko_artur)
+[![Instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/krivenko_artur/)
