@@ -13,3 +13,10 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/krivenko_artur)
 [![Instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/krivenko_artur/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krivenkoartur&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krivenkoartur&count_private=true?&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
