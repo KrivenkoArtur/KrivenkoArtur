@@ -1,6 +1,6 @@
 ![Header](https://github.com/KrivenkoArtur/krivenkoartur/blob/main/assets/bg.png)
 
-About Me
+## I'm a beginner Frontend developer
 
 Languages and Tools
 
